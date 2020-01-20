@@ -17,6 +17,7 @@ The link above contains 4 wireframes:
 * Login page
 * Create new inventory item page
 * View all inventory items page
+
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
